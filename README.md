@@ -1,1 +1,1 @@
-# infinity-runner-game
+# trex
